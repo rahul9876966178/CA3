@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-07T10:21:18 IST" name="All Test Suite" finished-at="2023-04-07T10:21:36 IST" duration-ms="18192">
+    <groups>
+    </groups>
+    <test started-at="2023-04-07T10:21:18 IST" name="C:/Users/HP/IdeaProjects/meet-a-stranger/pizza-split/MavenFirstProject/src/test/java/org/example/AppTest.java" finished-at="2023-04-07T10:21:28 IST" duration-ms="10448">
+      <class name="org.example.AppTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:org.example.AppTest@c267ef4]" started-at="2023-04-07T10:21:18 IST" name="setup" finished-at="2023-04-07T10:21:26 IST" duration-ms="7894" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://mail.google.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="login()[pri:0, instance:org.example.AppTest@c267ef4]" started-at="2023-04-07T10:21:26 IST" name="login" finished-at="2023-04-07T10:21:28 IST" duration-ms="2504" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- org.example.AppTest -->
+    </test> <!-- C:/Users/HP/IdeaProjects/meet-a-stranger/pizza-split/MavenFirstProject/src/test/java/org/example/AppTest.java -->
+    <test started-at="2023-04-07T10:21:28 IST" name="test2" finished-at="2023-04-07T10:21:36 IST" duration-ms="7709">
+      <class name="org.example.AppTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:org.example.AppTest@7193666c]" started-at="2023-04-07T10:21:28 IST" name="setup" finished-at="2023-04-07T10:21:34 IST" duration-ms="5194" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://mail.google.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="login()[pri:0, instance:org.example.AppTest@7193666c]" started-at="2023-04-07T10:21:34 IST" name="login" finished-at="2023-04-07T10:21:36 IST" duration-ms="2512" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- org.example.AppTest -->
+    </test> <!-- test2 -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
